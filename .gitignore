@@ -1,0 +1,10 @@
+.vscode
+
+.ipynb_checkpoints/
+__pycache__/
+
+/data/output/
+cached*
+!data/README.md
+
+dump/
